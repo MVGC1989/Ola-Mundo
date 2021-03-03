@@ -6,3 +6,8 @@
     Obrigado pela visita!
     
     Linha adicionada diretamente no site!
+    
+# Markdown
+
+**Negrito**
+*Itálico*
